@@ -34,5 +34,5 @@
     ".next-manual/types/**/*.ts",
     ".next-manual/dev/types/**/*.ts"
   ],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "shoplite-guides", "lab-guides"]
 }
